@@ -2,6 +2,6 @@
 .project
 .settings/
 bin/
-idea/
+.idea/
 out/production/data-structures-and-algorithms/
-data-structures-and-algorithms.iml
+.data-structures-and-algorithms.iml
