@@ -3,5 +3,5 @@
 .settings/
 bin/
 .idea/
-out/production/data-structures-and-algorithms/
+out/production/data-structures-and-algorithms/array
 data-structures-and-algorithms.iml
