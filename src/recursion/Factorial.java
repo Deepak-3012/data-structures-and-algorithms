@@ -12,7 +12,7 @@ class Factorial{
         // faith: f(4) -> 4 * 3 * 2 * 1
         if(n == 1) return n; // base case
         int fnm1 = findFactorial(n-1); // faith
-        int fn = n * fnm1; // reaching expectaion from faith
+        int fn = n * fnm1; // reaching expectation from faith
         return fn;
     }
 }
